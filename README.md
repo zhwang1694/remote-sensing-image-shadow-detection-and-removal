@@ -1,4 +1,4 @@
-# RF-Net: An End-to-End Image Matching Network based on Receptive Field
+# Near real-time shadow detection and removal in remote sensing imagery application
 
 This repository is a python implementation for
 
