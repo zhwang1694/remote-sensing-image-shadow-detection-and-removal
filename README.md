@@ -23,6 +23,6 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-# the number 0 means the first GPU on your machine.
+# using GUI 
 python main_page.py
 ```
