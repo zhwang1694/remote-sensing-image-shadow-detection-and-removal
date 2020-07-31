@@ -26,3 +26,10 @@ pip install -r requirements.txt
 # using GUI 
 python main_page.py
 ```
+
+---
+
+## Result
+![source image](https://github.com/BIT-zhwang/remote-sensing-image-shadow-detection-and-removal/blob/master/results/src.jpg)
+![mask detect result](https://github.com/BIT-zhwang/remote-sensing-image-shadow-detection-and-removal/blob/master/results/img_mask.jpg)
+![mask removal result](https://github.com/BIT-zhwang/remote-sensing-image-shadow-detection-and-removal/blob/master/results/result.jpg)
